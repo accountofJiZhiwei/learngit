@@ -1,3 +1,4 @@
 this is Git
 i am learn git
-iam ok!
+iam not ok!
+
